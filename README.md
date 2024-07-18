@@ -1,5 +1,5 @@
 # EdgeScript
-Run it up
+NOT MY SCRIPT
 
 (function() {
     'use strict';
